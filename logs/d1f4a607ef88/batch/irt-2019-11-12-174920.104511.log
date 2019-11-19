@@ -1,0 +1,47 @@
+2019-11-12 17:49:20 /usr/local/lib/python3.6/site-packages/pyirt/_pyirt.py[line:20] INFO: start loading data
+2019-11-12 17:49:20 /usr/local/lib/python3.6/site-packages/pyirt/_pyirt.py[line:27] INFO: data loaded
+2019-11-12 17:49:24 /usr/local/lib/python3.6/site-packages/pyirt/solver/model.py[line:104] DEBUG: E step runs for 198.172 sec
+2019-11-12 17:49:24 /usr/local/lib/python3.6/site-packages/pyirt/solver/model.py[line:111] DEBUG: M step runs for 126.435 sec
+2019-11-12 17:49:24 /usr/local/lib/python3.6/site-packages/pyirt/solver/model.py[line:243] DEBUG: score calculating
+2019-11-12 17:49:24 /usr/local/lib/python3.6/site-packages/pyirt/solver/model.py[line:245] DEBUG: score calculated.
+2019-11-12 17:49:24 /usr/local/lib/python3.6/site-packages/pyirt/solver/model.py[line:248] DEBUG: 0.748496865306776
+2019-11-12 17:49:24 /usr/local/lib/python3.6/site-packages/pyirt/solver/model.py[line:118] DEBUG: stop condition runs for 123.926 sec
+2019-11-12 17:49:28 /usr/local/lib/python3.6/site-packages/pyirt/solver/model.py[line:104] DEBUG: E step runs for 112.833 sec
+2019-11-12 17:49:28 /usr/local/lib/python3.6/site-packages/pyirt/solver/model.py[line:111] DEBUG: M step runs for 138.774 sec
+2019-11-12 17:49:28 /usr/local/lib/python3.6/site-packages/pyirt/solver/model.py[line:243] DEBUG: score calculating
+2019-11-12 17:49:29 /usr/local/lib/python3.6/site-packages/pyirt/solver/model.py[line:245] DEBUG: score calculated.
+2019-11-12 17:49:29 /usr/local/lib/python3.6/site-packages/pyirt/solver/model.py[line:248] DEBUG: 0.7552951435516888
+2019-11-12 17:49:29 /usr/local/lib/python3.6/site-packages/pyirt/solver/model.py[line:118] DEBUG: stop condition runs for 215.815 sec
+2019-11-12 17:49:33 /usr/local/lib/python3.6/site-packages/pyirt/solver/model.py[line:104] DEBUG: E step runs for 116.847 sec
+2019-11-12 17:49:33 /usr/local/lib/python3.6/site-packages/pyirt/solver/model.py[line:111] DEBUG: M step runs for 124.686 sec
+2019-11-12 17:49:33 /usr/local/lib/python3.6/site-packages/pyirt/solver/model.py[line:243] DEBUG: score calculating
+2019-11-12 17:49:33 /usr/local/lib/python3.6/site-packages/pyirt/solver/model.py[line:245] DEBUG: score calculated.
+2019-11-12 17:49:33 /usr/local/lib/python3.6/site-packages/pyirt/solver/model.py[line:248] DEBUG: 0.7589417070691776
+2019-11-12 17:49:33 /usr/local/lib/python3.6/site-packages/pyirt/solver/model.py[line:118] DEBUG: stop condition runs for 109.328 sec
+2019-11-12 17:49:37 /usr/local/lib/python3.6/site-packages/pyirt/solver/model.py[line:104] DEBUG: E step runs for 129.332 sec
+2019-11-12 17:49:37 /usr/local/lib/python3.6/site-packages/pyirt/solver/model.py[line:111] DEBUG: M step runs for 125.982 sec
+2019-11-12 17:49:37 /usr/local/lib/python3.6/site-packages/pyirt/solver/model.py[line:243] DEBUG: score calculating
+2019-11-12 17:49:37 /usr/local/lib/python3.6/site-packages/pyirt/solver/model.py[line:245] DEBUG: score calculated.
+2019-11-12 17:49:37 /usr/local/lib/python3.6/site-packages/pyirt/solver/model.py[line:248] DEBUG: 0.7615815629203808
+2019-11-12 17:49:37 /usr/local/lib/python3.6/site-packages/pyirt/solver/model.py[line:118] DEBUG: stop condition runs for 208.358 sec
+2019-11-12 17:49:42 /usr/local/lib/python3.6/site-packages/pyirt/solver/model.py[line:104] DEBUG: E step runs for 137.782 sec
+2019-11-12 17:49:42 /usr/local/lib/python3.6/site-packages/pyirt/solver/model.py[line:111] DEBUG: M step runs for 145.442 sec
+2019-11-12 17:49:42 /usr/local/lib/python3.6/site-packages/pyirt/solver/model.py[line:243] DEBUG: score calculating
+2019-11-12 17:49:42 /usr/local/lib/python3.6/site-packages/pyirt/solver/model.py[line:245] DEBUG: score calculated.
+2019-11-12 17:49:42 /usr/local/lib/python3.6/site-packages/pyirt/solver/model.py[line:248] DEBUG: 0.7633203247526085
+2019-11-12 17:49:42 /usr/local/lib/python3.6/site-packages/pyirt/solver/model.py[line:118] DEBUG: stop condition runs for 221.069 sec
+2019-11-12 17:49:46 /usr/local/lib/python3.6/site-packages/pyirt/solver/model.py[line:104] DEBUG: E step runs for 126.551 sec
+2019-11-12 17:49:46 /usr/local/lib/python3.6/site-packages/pyirt/solver/model.py[line:111] DEBUG: M step runs for 125.546 sec
+2019-11-12 17:49:46 /usr/local/lib/python3.6/site-packages/pyirt/solver/model.py[line:243] DEBUG: score calculating
+2019-11-12 17:49:46 /usr/local/lib/python3.6/site-packages/pyirt/solver/model.py[line:245] DEBUG: score calculated.
+2019-11-12 17:49:46 /usr/local/lib/python3.6/site-packages/pyirt/solver/model.py[line:248] DEBUG: 0.7644597947152765
+2019-11-12 17:49:46 /usr/local/lib/python3.6/site-packages/pyirt/solver/model.py[line:118] DEBUG: stop condition runs for 212.009 sec
+2019-11-12 17:49:51 /usr/local/lib/python3.6/site-packages/pyirt/solver/model.py[line:104] DEBUG: E step runs for 102.691 sec
+2019-11-12 17:49:51 /usr/local/lib/python3.6/site-packages/pyirt/solver/model.py[line:111] DEBUG: M step runs for 122.86 sec
+2019-11-12 17:49:51 /usr/local/lib/python3.6/site-packages/pyirt/solver/model.py[line:243] DEBUG: score calculating
+2019-11-12 17:49:51 /usr/local/lib/python3.6/site-packages/pyirt/solver/model.py[line:245] DEBUG: score calculated.
+2019-11-12 17:49:51 /usr/local/lib/python3.6/site-packages/pyirt/solver/model.py[line:248] DEBUG: 0.7652524630382587
+2019-11-12 17:49:51 /usr/local/lib/python3.6/site-packages/pyirt/solver/model.py[line:253] INFO: EM converged at iteration 7.
+2019-11-12 17:49:51 /usr/local/lib/python3.6/site-packages/pyirt/solver/model.py[line:118] DEBUG: stop condition runs for 109.977 sec
+2019-11-12 17:49:51 /usr/local/lib/python3.6/site-packages/pyirt/_pyirt.py[line:47] INFO: parameter estimated
+2019-11-12 17:49:51 /usr/local/lib/python3.6/site-packages/pyirt/_pyirt.py[line:50] INFO: parameter retrieved

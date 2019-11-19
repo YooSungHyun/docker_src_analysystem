@@ -1,0 +1,18 @@
+INFO 2019-04-15 17:49:13,181 gdb_connector 1909 140436880987136 Connection pool created successfully
+INFO 2019-04-15 18:00:19,611 gdb_connector 953 139638026044416 Error while connecting to DB: could not connect to server: Connection refused
+	Is the server running on host "10.178.85.18" and accepting
+	TCP/IP connections on port 15432?
+
+INFO 2019-04-15 18:00:40,640 gdb_connector 953 139638026044416 Error while connecting to DB: could not connect to server: Connection refused
+	Is the server running on host "10.178.85.18" and accepting
+	TCP/IP connections on port 15432?
+
+INFO 2019-04-15 18:01:01,739 gdb_connector 953 139638026044416 Error while connecting to DB: could not connect to server: Connection refused
+	Is the server running on host "10.178.85.18" and accepting
+	TCP/IP connections on port 15432?
+
+INFO 2019-04-15 18:01:22,815 gdb_connector 953 139638026044416 Error while connecting to DB: could not connect to server: Connection refused
+	Is the server running on host "10.178.85.18" and accepting
+	TCP/IP connections on port 15432?
+
+INFO 2019-04-15 18:01:22,874 gdb_connector 953 139638026044416 Connection pool created successfully

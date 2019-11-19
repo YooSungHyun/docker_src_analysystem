@@ -1,0 +1,3 @@
+INFO 2019-03-27 20:25:14,036 gdb_connector 1001 140664936301568 Connection pool created successfully
+INFO 2019-03-27 20:25:16,016 tf_logging 1001 140664936301568 Restoring parameters from /home/analy/analysystem/persistence/rpt/models/deepHLR-771
+INFO 2019-03-27 20:25:17,094 trace 1001 140664936301568 Task analyapi.tasks.task_srm_update_frgt_ku[756604f6-743e-48d8-9b12-09cd33606b6f] succeeded in 3.2681001000000833s: None

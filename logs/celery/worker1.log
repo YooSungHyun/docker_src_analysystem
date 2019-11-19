@@ -1,0 +1,337 @@
+INFO 2019-03-27 14:41:50,604 connection 897 139642932864000 Connected to amqp://guest:**@127.0.0.1:5672//
+INFO 2019-03-27 14:41:50,653 mingle 897 139642932864000 mingle: searching for neighbors
+INFO 2019-03-27 14:41:51,757 mingle 897 139642932864000 mingle: all alone
+WARNING 2019-03-27 14:41:51,838 log 897 139642932864000 /usr/local/lib/python3.6/site-packages/celery/fixups/django.py:200: UserWarning: Using settings.DEBUG leads to a memory leak, never use this setting in production environments!
+  warnings.warn('Using settings.DEBUG leads to a memory leak, never '
+INFO 2019-03-27 14:41:51,838 worker 897 139642932864000 worker1@2d388c60260f ready.
+INFO 2019-03-27 17:34:54,607 connection 917 140436515419136 Connected to amqp://guest:**@127.0.0.1:5672//
+INFO 2019-03-27 17:34:54,635 mingle 917 140436515419136 mingle: searching for neighbors
+INFO 2019-03-27 17:34:55,686 mingle 917 140436515419136 mingle: all alone
+WARNING 2019-03-27 17:34:55,737 log 917 140436515419136 /usr/local/lib/python3.6/site-packages/celery/fixups/django.py:200: UserWarning: Using settings.DEBUG leads to a memory leak, never use this setting in production environments!
+  warnings.warn('Using settings.DEBUG leads to a memory leak, never '
+INFO 2019-03-27 17:34:55,738 worker 917 140436515419136 worker1@2d388c60260f ready.
+INFO 2019-03-27 20:22:51,248 connection 916 140664936301568 Connected to amqp://guest:**@127.0.0.1:5672//
+INFO 2019-03-27 20:22:51,318 mingle 916 140664936301568 mingle: searching for neighbors
+INFO 2019-03-27 20:22:52,422 mingle 916 140664936301568 mingle: all alone
+WARNING 2019-03-27 20:22:52,548 log 916 140664936301568 /usr/local/lib/python3.6/site-packages/celery/fixups/django.py:200: UserWarning: Using settings.DEBUG leads to a memory leak, never use this setting in production environments!
+  warnings.warn('Using settings.DEBUG leads to a memory leak, never '
+INFO 2019-03-27 20:22:52,562 worker 916 140664936301568 worker1@2d388c60260f ready.
+INFO 2019-03-27 20:25:13,768 strategy 916 140664936301568 Received task: analyapi.tasks.task_srm_update_frgt_ku[756604f6-743e-48d8-9b12-09cd33606b6f]  
+INFO 2019-04-11 10:42:36,492 connection 915 139743107265536 Connected to amqp://guest:**@127.0.0.1:5672//
+INFO 2019-04-11 10:42:36,642 mingle 915 139743107265536 mingle: searching for neighbors
+INFO 2019-04-11 10:42:37,776 mingle 915 139743107265536 mingle: all alone
+WARNING 2019-04-11 10:42:37,901 log 915 139743107265536 /usr/local/lib/python3.6/site-packages/celery/fixups/django.py:200: UserWarning: Using settings.DEBUG leads to a memory leak, never use this setting in production environments!
+  warnings.warn('Using settings.DEBUG leads to a memory leak, never '
+INFO 2019-04-11 10:42:37,903 worker 915 139743107265536 worker1@c0b4bb3fa0dc ready.
+INFO 2019-04-12 09:12:34,512 connection 921 140161629021184 Connected to amqp://guest:**@127.0.0.1:5672//
+INFO 2019-04-12 09:12:34,581 mingle 921 140161629021184 mingle: searching for neighbors
+INFO 2019-04-12 09:12:35,731 mingle 921 140161629021184 mingle: all alone
+WARNING 2019-04-12 09:12:35,970 log 921 140161629021184 /usr/local/lib/python3.6/site-packages/celery/fixups/django.py:200: UserWarning: Using settings.DEBUG leads to a memory leak, never use this setting in production environments!
+  warnings.warn('Using settings.DEBUG leads to a memory leak, never '
+INFO 2019-04-12 09:12:35,989 worker 921 140161629021184 worker1@c0b4bb3fa0dc ready.
+INFO 2019-04-15 17:07:11,433 connection 916 140681028367360 Connected to amqp://guest:**@127.0.0.1:5672//
+INFO 2019-04-15 17:07:11,505 mingle 916 140681028367360 mingle: searching for neighbors
+INFO 2019-04-15 17:07:12,654 mingle 916 140681028367360 mingle: all alone
+WARNING 2019-04-15 17:07:12,827 log 916 140681028367360 /usr/local/lib/python3.6/site-packages/celery/fixups/django.py:200: UserWarning: Using settings.DEBUG leads to a memory leak, never use this setting in production environments!
+  warnings.warn('Using settings.DEBUG leads to a memory leak, never '
+INFO 2019-04-15 17:07:12,828 worker 916 140681028367360 worker1@c0b4bb3fa0dc ready.
+INFO 2019-04-15 17:24:01,755 connection 918 139807399597056 Connected to amqp://guest:**@127.0.0.1:5672//
+INFO 2019-04-15 17:24:01,776 mingle 918 139807399597056 mingle: searching for neighbors
+INFO 2019-04-15 17:24:02,820 mingle 918 139807399597056 mingle: all alone
+WARNING 2019-04-15 17:24:02,900 log 918 139807399597056 /usr/local/lib/python3.6/site-packages/celery/fixups/django.py:200: UserWarning: Using settings.DEBUG leads to a memory leak, never use this setting in production environments!
+  warnings.warn('Using settings.DEBUG leads to a memory leak, never '
+INFO 2019-04-15 17:24:02,900 worker 918 139807399597056 worker1@c0b4bb3fa0dc ready.
+INFO 2019-04-15 17:28:23,011 connection 933 140357074236416 Connected to amqp://guest:**@127.0.0.1:5672//
+INFO 2019-04-15 17:28:23,061 mingle 933 140357074236416 mingle: searching for neighbors
+INFO 2019-04-15 17:28:24,107 mingle 933 140357074236416 mingle: all alone
+WARNING 2019-04-15 17:28:24,163 log 933 140357074236416 /usr/local/lib/python3.6/site-packages/celery/fixups/django.py:200: UserWarning: Using settings.DEBUG leads to a memory leak, never use this setting in production environments!
+  warnings.warn('Using settings.DEBUG leads to a memory leak, never '
+INFO 2019-04-15 17:28:24,164 worker 933 140357074236416 worker1@c0b4bb3fa0dc ready.
+INFO 2019-04-15 17:31:05,533 connection 915 140496724714496 Connected to amqp://guest:**@127.0.0.1:5672//
+INFO 2019-04-15 17:31:05,676 mingle 915 140496724714496 mingle: searching for neighbors
+INFO 2019-04-15 17:31:06,797 mingle 915 140496724714496 mingle: all alone
+WARNING 2019-04-15 17:31:06,935 log 915 140496724714496 /usr/local/lib/python3.6/site-packages/celery/fixups/django.py:200: UserWarning: Using settings.DEBUG leads to a memory leak, never use this setting in production environments!
+  warnings.warn('Using settings.DEBUG leads to a memory leak, never '
+INFO 2019-04-15 17:31:06,936 worker 915 140496724714496 worker1@c0b4bb3fa0dc ready.
+INFO 2019-04-15 17:36:26,527 connection 937 140533820068864 Connected to amqp://guest:**@127.0.0.1:5672//
+INFO 2019-04-15 17:36:26,557 mingle 937 140533820068864 mingle: searching for neighbors
+INFO 2019-04-15 17:36:27,623 mingle 937 140533820068864 mingle: all alone
+WARNING 2019-04-15 17:36:27,758 log 937 140533820068864 /usr/local/lib/python3.6/site-packages/celery/fixups/django.py:200: UserWarning: Using settings.DEBUG leads to a memory leak, never use this setting in production environments!
+  warnings.warn('Using settings.DEBUG leads to a memory leak, never '
+INFO 2019-04-15 17:36:27,759 worker 937 140533820068864 worker1@c0b4bb3fa0dc ready.
+INFO 2019-04-15 17:59:06,904 connection 923 140003249026048 Connected to amqp://guest:**@127.0.0.1:5672//
+INFO 2019-04-15 17:59:06,949 mingle 923 140003249026048 mingle: searching for neighbors
+INFO 2019-04-15 17:59:07,983 mingle 923 140003249026048 mingle: all alone
+WARNING 2019-04-15 17:59:08,044 log 923 140003249026048 /usr/local/lib/python3.6/site-packages/celery/fixups/django.py:200: UserWarning: Using settings.DEBUG leads to a memory leak, never use this setting in production environments!
+  warnings.warn('Using settings.DEBUG leads to a memory leak, never '
+INFO 2019-04-15 17:59:08,046 worker 923 140003249026048 worker1@c0b4bb3fa0dc ready.
+INFO 2019-04-15 18:04:16,124 connection 927 139923316384768 Connected to amqp://guest:**@127.0.0.1:5672//
+INFO 2019-04-15 18:04:16,137 mingle 927 139923316384768 mingle: searching for neighbors
+INFO 2019-04-15 18:04:17,185 mingle 927 139923316384768 mingle: all alone
+WARNING 2019-04-15 18:04:17,267 log 927 139923316384768 /usr/local/lib/python3.6/site-packages/celery/fixups/django.py:200: UserWarning: Using settings.DEBUG leads to a memory leak, never use this setting in production environments!
+  warnings.warn('Using settings.DEBUG leads to a memory leak, never '
+INFO 2019-04-15 18:04:17,271 worker 927 139923316384768 worker1@c0b4bb3fa0dc ready.
+INFO 2019-04-15 18:45:37,293 connection 918 139792274428928 Connected to amqp://guest:**@127.0.0.1:5672//
+INFO 2019-04-15 18:45:37,324 mingle 918 139792274428928 mingle: searching for neighbors
+INFO 2019-04-15 18:45:38,362 mingle 918 139792274428928 mingle: all alone
+WARNING 2019-04-15 18:45:38,463 log 918 139792274428928 /usr/local/lib/python3.6/site-packages/celery/fixups/django.py:200: UserWarning: Using settings.DEBUG leads to a memory leak, never use this setting in production environments!
+  warnings.warn('Using settings.DEBUG leads to a memory leak, never '
+INFO 2019-04-15 18:45:38,463 worker 918 139792274428928 worker1@c0b4bb3fa0dc ready.
+INFO 2019-04-16 08:56:17,487 connection 923 139635755492352 Connected to amqp://guest:**@127.0.0.1:5672//
+INFO 2019-04-16 08:56:17,523 mingle 923 139635755492352 mingle: searching for neighbors
+INFO 2019-04-16 08:56:18,586 mingle 923 139635755492352 mingle: all alone
+WARNING 2019-04-16 08:56:18,700 log 923 139635755492352 /usr/local/lib/python3.6/site-packages/celery/fixups/django.py:200: UserWarning: Using settings.DEBUG leads to a memory leak, never use this setting in production environments!
+  warnings.warn('Using settings.DEBUG leads to a memory leak, never '
+INFO 2019-04-16 08:56:18,702 worker 923 139635755492352 worker1@c0b4bb3fa0dc ready.
+INFO 2019-04-17 14:13:16,722 connection 917 140125824791552 Connected to amqp://guest:**@127.0.0.1:5672//
+INFO 2019-04-17 14:13:16,790 mingle 917 140125824791552 mingle: searching for neighbors
+INFO 2019-04-17 14:13:17,868 mingle 917 140125824791552 mingle: all alone
+WARNING 2019-04-17 14:13:17,937 log 917 140125824791552 /usr/local/lib/python3.6/site-packages/celery/fixups/django.py:200: UserWarning: Using settings.DEBUG leads to a memory leak, never use this setting in production environments!
+  warnings.warn('Using settings.DEBUG leads to a memory leak, never '
+INFO 2019-04-17 14:13:17,939 worker 917 140125824791552 worker1@c0b4bb3fa0dc ready.
+INFO 2019-04-30 13:48:25,681 connection 921 139709146661888 Connected to amqp://guest:**@127.0.0.1:5672//
+INFO 2019-04-30 13:48:25,748 mingle 921 139709146661888 mingle: searching for neighbors
+INFO 2019-04-30 13:48:26,860 mingle 921 139709146661888 mingle: all alone
+WARNING 2019-04-30 13:48:26,942 log 921 139709146661888 /usr/local/lib/python3.6/site-packages/celery/fixups/django.py:200: UserWarning: Using settings.DEBUG leads to a memory leak, never use this setting in production environments!
+  warnings.warn('Using settings.DEBUG leads to a memory leak, never '
+INFO 2019-04-30 13:48:26,944 worker 921 139709146661888 worker1@c0b4bb3fa0dc ready.
+INFO 2019-05-03 15:54:04,862 connection 915 140340689478656 Connected to amqp://guest:**@127.0.0.1:5672//
+INFO 2019-05-03 15:54:04,909 mingle 915 140340689478656 mingle: searching for neighbors
+INFO 2019-05-03 15:54:05,975 mingle 915 140340689478656 mingle: all alone
+WARNING 2019-05-03 15:54:06,053 log 915 140340689478656 /usr/local/lib/python3.6/site-packages/celery/fixups/django.py:200: UserWarning: Using settings.DEBUG leads to a memory leak, never use this setting in production environments!
+  warnings.warn('Using settings.DEBUG leads to a memory leak, never '
+INFO 2019-05-03 15:54:06,056 worker 915 140340689478656 worker1@c0b4bb3fa0dc ready.
+INFO 2019-05-03 15:57:25,879 connection 916 140583647814656 Connected to amqp://guest:**@127.0.0.1:5672//
+INFO 2019-05-03 15:57:25,911 mingle 916 140583647814656 mingle: searching for neighbors
+INFO 2019-05-03 15:57:26,972 mingle 916 140583647814656 mingle: all alone
+WARNING 2019-05-03 15:57:27,066 log 916 140583647814656 /usr/local/lib/python3.6/site-packages/celery/fixups/django.py:200: UserWarning: Using settings.DEBUG leads to a memory leak, never use this setting in production environments!
+  warnings.warn('Using settings.DEBUG leads to a memory leak, never '
+INFO 2019-05-03 15:57:27,067 worker 916 140583647814656 worker1@c0b4bb3fa0dc ready.
+INFO 2019-05-03 16:13:01,343 connection 917 140321731281920 Connected to amqp://guest:**@127.0.0.1:5672//
+INFO 2019-05-03 16:13:01,444 mingle 917 140321731281920 mingle: searching for neighbors
+INFO 2019-05-03 16:13:02,564 mingle 917 140321731281920 mingle: all alone
+WARNING 2019-05-03 16:13:02,673 log 917 140321731281920 /usr/local/lib/python3.6/site-packages/celery/fixups/django.py:200: UserWarning: Using settings.DEBUG leads to a memory leak, never use this setting in production environments!
+  warnings.warn('Using settings.DEBUG leads to a memory leak, never '
+INFO 2019-05-03 16:13:02,674 worker 917 140321731281920 worker1@c0b4bb3fa0dc ready.
+INFO 2019-05-03 17:08:47,164 connection 897 140367491150848 Connected to amqp://guest:**@127.0.0.1:5672//
+INFO 2019-05-03 17:08:47,185 mingle 897 140367491150848 mingle: searching for neighbors
+INFO 2019-05-03 17:08:48,235 mingle 897 140367491150848 mingle: all alone
+WARNING 2019-05-03 17:08:48,322 log 897 140367491150848 /usr/local/lib/python3.6/site-packages/celery/fixups/django.py:200: UserWarning: Using settings.DEBUG leads to a memory leak, never use this setting in production environments!
+  warnings.warn('Using settings.DEBUG leads to a memory leak, never '
+INFO 2019-05-03 17:08:48,322 worker 897 140367491150848 worker1@9ca9d235241a ready.
+INFO 2019-05-03 17:13:36,778 connection 897 140437582320640 Connected to amqp://guest:**@127.0.0.1:5672//
+INFO 2019-05-03 17:13:36,818 mingle 897 140437582320640 mingle: searching for neighbors
+INFO 2019-05-03 17:13:37,880 mingle 897 140437582320640 mingle: all alone
+WARNING 2019-05-03 17:13:37,933 log 897 140437582320640 /usr/local/lib/python3.6/site-packages/celery/fixups/django.py:200: UserWarning: Using settings.DEBUG leads to a memory leak, never use this setting in production environments!
+  warnings.warn('Using settings.DEBUG leads to a memory leak, never '
+INFO 2019-05-03 17:13:37,934 worker 897 140437582320640 worker1@1ff796391926 ready.
+INFO 2019-05-03 17:18:08,049 connection 915 139853769466880 Connected to amqp://guest:**@127.0.0.1:5672//
+INFO 2019-05-03 17:18:08,083 mingle 915 139853769466880 mingle: searching for neighbors
+INFO 2019-05-03 17:18:09,148 mingle 915 139853769466880 mingle: all alone
+WARNING 2019-05-03 17:18:09,213 log 915 139853769466880 /usr/local/lib/python3.6/site-packages/celery/fixups/django.py:200: UserWarning: Using settings.DEBUG leads to a memory leak, never use this setting in production environments!
+  warnings.warn('Using settings.DEBUG leads to a memory leak, never '
+INFO 2019-05-03 17:18:09,221 worker 915 139853769466880 worker1@1ff796391926 ready.
+INFO 2019-05-07 09:37:55,824 connection 897 139851853222912 Connected to amqp://guest:**@127.0.0.1:5672//
+INFO 2019-05-07 09:37:55,953 mingle 897 139851853222912 mingle: searching for neighbors
+INFO 2019-05-07 09:37:57,077 mingle 897 139851853222912 mingle: all alone
+WARNING 2019-05-07 09:37:57,147 log 897 139851853222912 /usr/local/lib/python3.6/site-packages/celery/fixups/django.py:200: UserWarning: Using settings.DEBUG leads to a memory leak, never use this setting in production environments!
+  warnings.warn('Using settings.DEBUG leads to a memory leak, never '
+INFO 2019-05-07 09:37:57,149 worker 897 139851853222912 worker1@06b58adea7c8 ready.
+INFO 2019-05-07 09:54:31,842 connection 897 139670658311168 Connected to amqp://guest:**@127.0.0.1:5672//
+INFO 2019-05-07 09:54:31,906 mingle 897 139670658311168 mingle: searching for neighbors
+INFO 2019-05-07 09:54:32,972 mingle 897 139670658311168 mingle: all alone
+WARNING 2019-05-07 09:54:33,060 log 897 139670658311168 /usr/local/lib/python3.6/site-packages/celery/fixups/django.py:200: UserWarning: Using settings.DEBUG leads to a memory leak, never use this setting in production environments!
+  warnings.warn('Using settings.DEBUG leads to a memory leak, never '
+INFO 2019-05-07 09:54:33,061 worker 897 139670658311168 worker1@8711eaa255d0 ready.
+INFO 2019-05-07 10:00:09,135 connection 918 140472993993728 Connected to amqp://guest:**@127.0.0.1:5672//
+INFO 2019-05-07 10:00:09,177 mingle 918 140472993993728 mingle: searching for neighbors
+INFO 2019-05-07 10:00:10,225 mingle 918 140472993993728 mingle: all alone
+WARNING 2019-05-07 10:00:10,285 log 918 140472993993728 /usr/local/lib/python3.6/site-packages/celery/fixups/django.py:200: UserWarning: Using settings.DEBUG leads to a memory leak, never use this setting in production environments!
+  warnings.warn('Using settings.DEBUG leads to a memory leak, never '
+INFO 2019-05-07 10:00:10,287 worker 918 140472993993728 worker1@8711eaa255d0 ready.
+INFO 2019-05-07 11:16:41,718 connection 922 139718045025280 Connected to amqp://guest:**@127.0.0.1:5672//
+INFO 2019-05-07 11:16:41,785 mingle 922 139718045025280 mingle: searching for neighbors
+INFO 2019-05-07 11:16:42,972 mingle 922 139718045025280 mingle: all alone
+WARNING 2019-05-07 11:16:43,033 log 922 139718045025280 /usr/local/lib/python3.6/site-packages/celery/fixups/django.py:200: UserWarning: Using settings.DEBUG leads to a memory leak, never use this setting in production environments!
+  warnings.warn('Using settings.DEBUG leads to a memory leak, never '
+INFO 2019-05-07 11:16:43,034 worker 922 139718045025280 worker1@8711eaa255d0 ready.
+INFO 2019-05-07 11:43:58,481 connection 897 140269578925056 Connected to amqp://guest:**@127.0.0.1:5672//
+INFO 2019-05-07 11:43:58,786 mingle 897 140269578925056 mingle: searching for neighbors
+INFO 2019-05-07 11:43:59,938 mingle 897 140269578925056 mingle: all alone
+WARNING 2019-05-07 11:44:00,087 log 897 140269578925056 /usr/local/lib/python3.6/site-packages/celery/fixups/django.py:200: UserWarning: Using settings.DEBUG leads to a memory leak, never use this setting in production environments!
+  warnings.warn('Using settings.DEBUG leads to a memory leak, never '
+INFO 2019-05-07 11:44:00,090 worker 897 140269578925056 worker1@f5650178d12d ready.
+INFO 2019-05-07 14:24:10,612 connection 898 140171477148672 Connected to amqp://guest:**@127.0.0.1:5672//
+INFO 2019-05-07 14:24:10,682 mingle 898 140171477148672 mingle: searching for neighbors
+INFO 2019-05-07 14:24:11,750 mingle 898 140171477148672 mingle: all alone
+WARNING 2019-05-07 14:24:11,854 log 898 140171477148672 /usr/local/lib/python3.6/site-packages/celery/fixups/django.py:200: UserWarning: Using settings.DEBUG leads to a memory leak, never use this setting in production environments!
+  warnings.warn('Using settings.DEBUG leads to a memory leak, never '
+INFO 2019-05-07 14:24:11,855 worker 898 140171477148672 worker1@22b38540de0a ready.
+INFO 2019-05-07 15:15:09,279 connection 898 140223872410624 Connected to amqp://guest:**@127.0.0.1:5672//
+INFO 2019-05-07 15:15:09,303 mingle 898 140223872410624 mingle: searching for neighbors
+INFO 2019-05-07 15:15:10,385 mingle 898 140223872410624 mingle: all alone
+WARNING 2019-05-07 15:15:10,439 log 898 140223872410624 /usr/local/lib/python3.6/site-packages/celery/fixups/django.py:200: UserWarning: Using settings.DEBUG leads to a memory leak, never use this setting in production environments!
+  warnings.warn('Using settings.DEBUG leads to a memory leak, never '
+INFO 2019-05-07 15:15:10,441 worker 898 140223872410624 worker1@4ffb9c27abb1 ready.
+INFO 2019-05-07 15:46:47,395 connection 898 140396015989760 Connected to amqp://guest:**@127.0.0.1:5672//
+INFO 2019-05-07 15:46:47,426 mingle 898 140396015989760 mingle: searching for neighbors
+INFO 2019-05-07 15:46:48,629 mingle 898 140396015989760 mingle: all alone
+WARNING 2019-05-07 15:46:48,704 log 898 140396015989760 /usr/local/lib/python3.6/site-packages/celery/fixups/django.py:200: UserWarning: Using settings.DEBUG leads to a memory leak, never use this setting in production environments!
+  warnings.warn('Using settings.DEBUG leads to a memory leak, never '
+INFO 2019-05-07 15:46:48,706 worker 898 140396015989760 worker1@6b9ead93b788 ready.
+INFO 2019-05-07 18:00:46,739 connection 916 140535259743232 Connected to amqp://guest:**@127.0.0.1:5672//
+INFO 2019-05-07 18:00:46,759 mingle 916 140535259743232 mingle: searching for neighbors
+INFO 2019-05-07 18:00:47,831 mingle 916 140535259743232 mingle: all alone
+WARNING 2019-05-07 18:00:47,904 log 916 140535259743232 /usr/local/lib/python3.6/site-packages/celery/fixups/django.py:200: UserWarning: Using settings.DEBUG leads to a memory leak, never use this setting in production environments!
+  warnings.warn('Using settings.DEBUG leads to a memory leak, never '
+INFO 2019-05-07 18:00:47,905 worker 916 140535259743232 worker1@6b9ead93b788 ready.
+INFO 2019-05-07 18:15:16,479 connection 919 139700068590592 Connected to amqp://guest:**@127.0.0.1:5672//
+INFO 2019-05-07 18:15:16,544 mingle 919 139700068590592 mingle: searching for neighbors
+INFO 2019-05-07 18:15:17,665 mingle 919 139700068590592 mingle: all alone
+WARNING 2019-05-07 18:15:17,742 log 919 139700068590592 /usr/local/lib/python3.6/site-packages/celery/fixups/django.py:200: UserWarning: Using settings.DEBUG leads to a memory leak, never use this setting in production environments!
+  warnings.warn('Using settings.DEBUG leads to a memory leak, never '
+INFO 2019-05-07 18:15:17,742 worker 919 139700068590592 worker1@6b9ead93b788 ready.
+INFO 2019-05-07 18:42:24,805 connection 898 140396261893120 Connected to amqp://guest:**@127.0.0.1:5672//
+INFO 2019-05-07 18:42:24,836 mingle 898 140396261893120 mingle: searching for neighbors
+INFO 2019-05-07 18:42:25,933 mingle 898 140396261893120 mingle: all alone
+WARNING 2019-05-07 18:42:26,010 log 898 140396261893120 /usr/local/lib/python3.6/site-packages/celery/fixups/django.py:200: UserWarning: Using settings.DEBUG leads to a memory leak, never use this setting in production environments!
+  warnings.warn('Using settings.DEBUG leads to a memory leak, never '
+INFO 2019-05-07 18:42:26,011 worker 898 140396261893120 worker1@linuxkit-00155d085b26 ready.
+INFO 2019-05-07 19:14:05,119 connection 915 139685460751360 Connected to amqp://guest:**@127.0.0.1:5672//
+INFO 2019-05-07 19:14:05,202 mingle 915 139685460751360 mingle: searching for neighbors
+INFO 2019-05-07 19:14:06,306 mingle 915 139685460751360 mingle: all alone
+WARNING 2019-05-07 19:14:06,377 log 915 139685460751360 /usr/local/lib/python3.6/site-packages/celery/fixups/django.py:200: UserWarning: Using settings.DEBUG leads to a memory leak, never use this setting in production environments!
+  warnings.warn('Using settings.DEBUG leads to a memory leak, never '
+INFO 2019-05-07 19:14:06,380 worker 915 139685460751360 worker1@linuxkit-00155d085b26 ready.
+INFO 2019-05-07 19:30:14,322 connection 917 140592356705280 Connected to amqp://guest:**@127.0.0.1:5672//
+INFO 2019-05-07 19:30:14,491 mingle 917 140592356705280 mingle: searching for neighbors
+INFO 2019-05-07 19:30:15,643 mingle 917 140592356705280 mingle: all alone
+WARNING 2019-05-07 19:30:15,706 log 917 140592356705280 /usr/local/lib/python3.6/site-packages/celery/fixups/django.py:200: UserWarning: Using settings.DEBUG leads to a memory leak, never use this setting in production environments!
+  warnings.warn('Using settings.DEBUG leads to a memory leak, never '
+INFO 2019-05-07 19:30:15,711 worker 917 140592356705280 worker1@linuxkit-00155d085b26 ready.
+INFO 2019-05-07 19:53:41,490 connection 924 140687036548096 Connected to amqp://guest:**@127.0.0.1:5672//
+INFO 2019-05-07 19:53:41,622 mingle 924 140687036548096 mingle: searching for neighbors
+INFO 2019-05-07 19:53:42,791 mingle 924 140687036548096 mingle: all alone
+WARNING 2019-05-07 19:53:42,853 log 924 140687036548096 /usr/local/lib/python3.6/site-packages/celery/fixups/django.py:200: UserWarning: Using settings.DEBUG leads to a memory leak, never use this setting in production environments!
+  warnings.warn('Using settings.DEBUG leads to a memory leak, never '
+INFO 2019-05-07 19:53:42,854 worker 924 140687036548096 worker1@linuxkit-00155d085b26 ready.
+INFO 2019-05-07 20:00:18,073 connection 916 139811462349824 Connected to amqp://guest:**@127.0.0.1:5672//
+INFO 2019-05-07 20:00:18,190 mingle 916 139811462349824 mingle: searching for neighbors
+INFO 2019-05-07 20:00:19,349 mingle 916 139811462349824 mingle: all alone
+WARNING 2019-05-07 20:00:19,412 log 916 139811462349824 /usr/local/lib/python3.6/site-packages/celery/fixups/django.py:200: UserWarning: Using settings.DEBUG leads to a memory leak, never use this setting in production environments!
+  warnings.warn('Using settings.DEBUG leads to a memory leak, never '
+INFO 2019-05-07 20:00:19,413 worker 916 139811462349824 worker1@linuxkit-00155d085b26 ready.
+INFO 2019-05-07 20:02:30,810 connection 915 139809045718016 Connected to amqp://guest:**@127.0.0.1:5672//
+INFO 2019-05-07 20:02:30,904 mingle 915 139809045718016 mingle: searching for neighbors
+INFO 2019-05-07 20:02:32,056 mingle 915 139809045718016 mingle: all alone
+WARNING 2019-05-07 20:02:32,128 log 915 139809045718016 /usr/local/lib/python3.6/site-packages/celery/fixups/django.py:200: UserWarning: Using settings.DEBUG leads to a memory leak, never use this setting in production environments!
+  warnings.warn('Using settings.DEBUG leads to a memory leak, never '
+INFO 2019-05-07 20:02:32,128 worker 915 139809045718016 worker1@linuxkit-00155d085b26 ready.
+INFO 2019-05-08 09:36:53,670 connection 897 140300382958592 Connected to amqp://guest:**@127.0.0.1:5672//
+INFO 2019-05-08 09:36:53,719 mingle 897 140300382958592 mingle: searching for neighbors
+INFO 2019-05-08 09:36:54,784 mingle 897 140300382958592 mingle: all alone
+WARNING 2019-05-08 09:36:54,829 log 897 140300382958592 /usr/local/lib/python3.6/site-packages/celery/fixups/django.py:200: UserWarning: Using settings.DEBUG leads to a memory leak, never use this setting in production environments!
+  warnings.warn('Using settings.DEBUG leads to a memory leak, never '
+INFO 2019-05-08 09:36:54,830 worker 897 140300382958592 worker1@6731a74673fd ready.
+INFO 2019-05-08 09:45:20,465 connection 905 139809162683392 Connected to amqp://guest:**@127.0.0.1:5672//
+INFO 2019-05-08 09:45:20,486 mingle 905 139809162683392 mingle: searching for neighbors
+INFO 2019-05-08 09:45:21,535 mingle 905 139809162683392 mingle: all alone
+WARNING 2019-05-08 09:45:21,667 log 905 139809162683392 /usr/local/lib/python3.6/site-packages/celery/fixups/django.py:200: UserWarning: Using settings.DEBUG leads to a memory leak, never use this setting in production environments!
+  warnings.warn('Using settings.DEBUG leads to a memory leak, never '
+INFO 2019-05-08 09:45:21,671 worker 905 139809162683392 worker1@37ff5b48b59a ready.
+INFO 2019-05-08 10:20:43,813 connection 898 139652149523456 Connected to amqp://guest:**@127.0.0.1:5672//
+INFO 2019-05-08 10:20:43,877 mingle 898 139652149523456 mingle: searching for neighbors
+INFO 2019-05-08 10:20:44,977 mingle 898 139652149523456 mingle: all alone
+WARNING 2019-05-08 10:20:45,098 log 898 139652149523456 /usr/local/lib/python3.6/site-packages/celery/fixups/django.py:200: UserWarning: Using settings.DEBUG leads to a memory leak, never use this setting in production environments!
+  warnings.warn('Using settings.DEBUG leads to a memory leak, never '
+INFO 2019-05-08 10:20:45,098 worker 898 139652149523456 worker1@248b7fdcb238 ready.
+INFO 2019-05-08 11:31:53,409 connection 917 140013396902912 Connected to amqp://guest:**@127.0.0.1:5672//
+INFO 2019-05-08 11:31:53,509 mingle 917 140013396902912 mingle: searching for neighbors
+INFO 2019-05-08 11:31:54,559 mingle 917 140013396902912 mingle: all alone
+WARNING 2019-05-08 11:31:54,637 log 917 140013396902912 /usr/local/lib/python3.6/site-packages/celery/fixups/django.py:200: UserWarning: Using settings.DEBUG leads to a memory leak, never use this setting in production environments!
+  warnings.warn('Using settings.DEBUG leads to a memory leak, never '
+INFO 2019-05-08 11:31:54,638 worker 917 140013396902912 worker1@248b7fdcb238 ready.
+INFO 2019-05-08 13:58:11,604 connection 915 140342007161856 Connected to amqp://guest:**@127.0.0.1:5672//
+INFO 2019-05-08 13:58:11,618 mingle 915 140342007161856 mingle: searching for neighbors
+INFO 2019-05-08 13:58:12,664 mingle 915 140342007161856 mingle: all alone
+WARNING 2019-05-08 13:58:12,744 log 915 140342007161856 /usr/local/lib/python3.6/site-packages/celery/fixups/django.py:200: UserWarning: Using settings.DEBUG leads to a memory leak, never use this setting in production environments!
+  warnings.warn('Using settings.DEBUG leads to a memory leak, never '
+INFO 2019-05-08 13:58:12,745 worker 915 140342007161856 worker1@248b7fdcb238 ready.
+INFO 2019-05-16 11:31:03,501 connection 901 140087127753728 Connected to amqp://guest:**@127.0.0.1:5672//
+INFO 2019-05-16 11:31:03,518 mingle 901 140087127753728 mingle: searching for neighbors
+INFO 2019-05-16 11:31:04,555 mingle 901 140087127753728 mingle: all alone
+WARNING 2019-05-16 11:31:04,624 log 901 140087127753728 /usr/local/lib/python3.6/site-packages/celery/fixups/django.py:200: UserWarning: Using settings.DEBUG leads to a memory leak, never use this setting in production environments!
+  warnings.warn('Using settings.DEBUG leads to a memory leak, never '
+INFO 2019-05-16 11:31:04,626 worker 901 140087127753728 worker1@e951a2d1eeb3 ready.
+INFO 2019-06-07 11:02:10,308 connection 917 140438212383744 Connected to amqp://guest:**@127.0.0.1:5672//
+INFO 2019-06-07 11:02:10,340 mingle 917 140438212383744 mingle: searching for neighbors
+INFO 2019-06-07 11:02:11,419 mingle 917 140438212383744 mingle: all alone
+WARNING 2019-06-07 11:02:11,487 log 917 140438212383744 /usr/local/lib/python3.6/site-packages/celery/fixups/django.py:200: UserWarning: Using settings.DEBUG leads to a memory leak, never use this setting in production environments!
+  warnings.warn('Using settings.DEBUG leads to a memory leak, never '
+INFO 2019-06-07 11:02:11,488 worker 917 140438212383744 worker1@e951a2d1eeb3 ready.
+INFO 2019-06-26 18:58:10,329 connection 915 139657614894080 Connected to amqp://guest:**@127.0.0.1:5672//
+INFO 2019-06-26 18:58:10,377 mingle 915 139657614894080 mingle: searching for neighbors
+INFO 2019-06-26 18:58:11,487 mingle 915 139657614894080 mingle: all alone
+WARNING 2019-06-26 18:58:11,549 log 915 139657614894080 /usr/local/lib/python3.6/site-packages/celery/fixups/django.py:200: UserWarning: Using settings.DEBUG leads to a memory leak, never use this setting in production environments!
+  warnings.warn('Using settings.DEBUG leads to a memory leak, never '
+INFO 2019-06-26 18:58:11,550 worker 915 139657614894080 worker1@e951a2d1eeb3 ready.
+INFO 2019-07-23 15:54:07,306 connection 920 139989623960576 Connected to amqp://guest:**@127.0.0.1:5672//
+INFO 2019-07-23 15:54:07,336 mingle 920 139989623960576 mingle: searching for neighbors
+INFO 2019-07-23 15:54:08,458 mingle 920 139989623960576 mingle: all alone
+WARNING 2019-07-23 15:54:08,522 log 920 139989623960576 /usr/local/lib/python3.6/site-packages/celery/fixups/django.py:200: UserWarning: Using settings.DEBUG leads to a memory leak, never use this setting in production environments!
+  warnings.warn('Using settings.DEBUG leads to a memory leak, never '
+INFO 2019-07-23 15:54:08,522 worker 920 139989623960576 worker1@e951a2d1eeb3 ready.
+INFO 2019-08-28 08:50:20,223 connection 889 140201556789056 Connected to amqp://guest:**@127.0.0.1:5672//
+INFO 2019-08-28 08:50:20,478 mingle 889 140201556789056 mingle: searching for neighbors
+INFO 2019-08-28 08:50:21,556 mingle 889 140201556789056 mingle: all alone
+WARNING 2019-08-28 08:50:21,660 log 889 140201556789056 /usr/local/lib/python3.6/site-packages/celery/fixups/django.py:200: UserWarning: Using settings.DEBUG leads to a memory leak, never use this setting in production environments!
+  warnings.warn('Using settings.DEBUG leads to a memory leak, never '
+INFO 2019-08-28 08:50:21,661 worker 889 140201556789056 worker1@8fe8aee14a6f ready.
+INFO 2019-08-28 08:56:26,845 connection 907 139951614531392 Connected to amqp://guest:**@127.0.0.1:5672//
+INFO 2019-08-28 08:56:27,029 mingle 907 139951614531392 mingle: searching for neighbors
+INFO 2019-08-28 08:56:28,450 mingle 907 139951614531392 mingle: all alone
+WARNING 2019-08-28 08:56:28,555 log 907 139951614531392 /usr/local/lib/python3.6/site-packages/celery/fixups/django.py:200: UserWarning: Using settings.DEBUG leads to a memory leak, never use this setting in production environments!
+  warnings.warn('Using settings.DEBUG leads to a memory leak, never '
+INFO 2019-08-28 08:56:28,556 worker 907 139951614531392 worker1@8fe8aee14a6f ready.
+INFO 2019-09-18 15:53:24,292 connection 921 139913516775232 Connected to amqp://guest:**@127.0.0.1:5672//
+INFO 2019-09-18 15:53:24,305 mingle 921 139913516775232 mingle: searching for neighbors
+INFO 2019-09-18 15:53:25,595 mingle 921 139913516775232 mingle: all alone
+WARNING 2019-09-18 15:53:25,843 log 921 139913516775232 /usr/local/lib/python3.6/site-packages/celery/fixups/django.py:200: UserWarning: Using settings.DEBUG leads to a memory leak, never use this setting in production environments!
+  warnings.warn('Using settings.DEBUG leads to a memory leak, never '
+INFO 2019-09-18 15:53:25,845 worker 921 139913516775232 worker1@8fe8aee14a6f ready.
+INFO 2019-09-19 11:38:01,985 connection 931 140457239484224 Connected to amqp://guest:**@127.0.0.1:5672//
+INFO 2019-09-19 11:38:02,173 mingle 931 140457239484224 mingle: searching for neighbors
+INFO 2019-09-19 11:38:03,326 mingle 931 140457239484224 mingle: all alone
+WARNING 2019-09-19 11:38:03,458 log 931 140457239484224 /usr/local/lib/python3.6/site-packages/celery/fixups/django.py:200: UserWarning: Using settings.DEBUG leads to a memory leak, never use this setting in production environments!
+  warnings.warn('Using settings.DEBUG leads to a memory leak, never '
+INFO 2019-09-19 11:38:03,458 worker 931 140457239484224 worker1@8fe8aee14a6f ready.
+INFO 2019-09-20 09:18:50,162 connection 921 139859996038976 Connected to amqp://guest:**@127.0.0.1:5672//
+INFO 2019-09-20 09:18:50,215 mingle 921 139859996038976 mingle: searching for neighbors
+INFO 2019-09-20 09:18:51,515 mingle 921 139859996038976 mingle: all alone
+WARNING 2019-09-20 09:18:51,681 log 921 139859996038976 /usr/local/lib/python3.6/site-packages/celery/fixups/django.py:200: UserWarning: Using settings.DEBUG leads to a memory leak, never use this setting in production environments!
+  warnings.warn('Using settings.DEBUG leads to a memory leak, never '
+INFO 2019-09-20 09:18:51,683 worker 921 139859996038976 worker1@8fe8aee14a6f ready.
+INFO 2019-11-13 08:59:32,672 connection 3523 139656957642560 Connected to amqp://guest:**@127.0.0.1:5672//
+INFO 2019-11-13 08:59:32,906 mingle 3523 139656957642560 mingle: searching for neighbors
+INFO 2019-11-13 08:59:33,999 mingle 3523 139656957642560 mingle: all alone
+WARNING 2019-11-13 08:59:34,118 log 3523 139656957642560 /usr/local/lib/python3.6/site-packages/celery/fixups/django.py:200: UserWarning: Using settings.DEBUG leads to a memory leak, never use this setting in production environments!
+  warnings.warn('Using settings.DEBUG leads to a memory leak, never '
+INFO 2019-11-13 08:59:34,118 worker 3523 139656957642560 worker1@d1f4a607ef88 ready.
+INFO 2019-11-13 09:24:35,779 connection 5992 139827518023488 Connected to amqp://guest:**@127.0.0.1:5672//
+INFO 2019-11-13 09:24:35,787 mingle 5992 139827518023488 mingle: searching for neighbors
+INFO 2019-11-13 09:24:36,912 mingle 5992 139827518023488 mingle: all alone
+WARNING 2019-11-13 09:24:37,269 log 5992 139827518023488 /usr/local/lib/python3.6/site-packages/celery/fixups/django.py:200: UserWarning: Using settings.DEBUG leads to a memory leak, never use this setting in production environments!
+  warnings.warn('Using settings.DEBUG leads to a memory leak, never '
+INFO 2019-11-13 09:24:37,269 worker 5992 139827518023488 worker1@d1f4a607ef88 ready.
+INFO 2019-11-13 14:38:54,429 connection 30122 140224298960704 Connected to amqp://guest:**@127.0.0.1:5672//
+INFO 2019-11-13 14:38:54,463 mingle 30122 140224298960704 mingle: searching for neighbors
+INFO 2019-11-13 14:38:55,518 mingle 30122 140224298960704 mingle: all alone
+WARNING 2019-11-13 14:38:55,600 log 30122 140224298960704 /usr/local/lib/python3.6/site-packages/celery/fixups/django.py:200: UserWarning: Using settings.DEBUG leads to a memory leak, never use this setting in production environments!
+  warnings.warn('Using settings.DEBUG leads to a memory leak, never '
+INFO 2019-11-13 14:38:55,600 worker 30122 140224298960704 worker1@d1f4a607ef88 ready.
+INFO 2019-11-18 09:19:19,311 connection 3539 140490007488320 Connected to amqp://guest:**@127.0.0.1:5672//
+INFO 2019-11-18 09:19:19,327 mingle 3539 140490007488320 mingle: searching for neighbors
+INFO 2019-11-18 09:19:20,548 mingle 3539 140490007488320 mingle: all alone
+WARNING 2019-11-18 09:19:20,865 log 3539 140490007488320 /usr/local/lib/python3.6/site-packages/celery/fixups/django.py:200: UserWarning: Using settings.DEBUG leads to a memory leak, never use this setting in production environments!
+  warnings.warn('Using settings.DEBUG leads to a memory leak, never '
+INFO 2019-11-18 09:19:20,866 worker 3539 140490007488320 worker1@d1f4a607ef88 ready.
