@@ -1,0 +1,26 @@
+version: '2.3'
+services:
+  analysystem:
+    build:
+      context: .
+      network: host
+    pid: "host"
+    container_name: analysystem
+    volumes:
+      - .:/home/analy/analysystem
+    ports:
+      - "8000:8000"
+      - "8888:8888"
+      - "5555:5555"
+    command: bash -c 'cat /home/analy/hosts >> /etc/hosts && service rabbitmq-server start && rabbitmqctl stop_app && rabbitmqctl reset && rabbitmqctl start_app && cd /home/analy/analysystem/persistence/bkt && make clean && make all && celery multi start worker1 -A analysystem --pool=prefork --pidfile=/var/run/%n.pid --logfile=/home/analy/analysystem/logs/celery/%n%I.log --loglevel=INFO --workdir=/home/analy/analysystem && cd /home/analy/analysystem && python manage.py runserver 0.0.0.0:8000 && flower -A analysystem --address=0.0.0.0 --port=5555 & jupyter notebook'
+    #command: bash -c 'cat /home/analy/hosts >> /etc/hosts && service rabbitmq-server start && rabbitmqctl stop_app && rabbitmqctl reset && rabbitmqctl start_app && cd /home/analy/analysystem/persistence/bkt && make clean && make all && celery multi start worker1 -A analysystem --pool=prefork --pidfile=/var/run/%n.pid --logfile=/home/analy/analysystem/logs/celery/%n%I.log --loglevel=INFO --workdir=/home/analy/analysystem && cd /home/analy/analysystem && gunicorn --config /home/analy/analysystem/analysystem/gunicorn_config.py --reload analysystem.wsgi && flower -A analysystem --address=0.0.0.0 --port=5555 & jupyter notebook'
+    #command: bash -c 'cat /home/analy/hosts >> /etc/hosts && pip install git+git://github.com/17zuoye/pyirt.git@bdb5fd88bd7656310eba11a9f0303442b952baf0 && service rabbitmq-server start && rabbitmqctl stop_app && rabbitmqctl reset && rabbitmqctl start_app && cd /home/analy/analysystem/persistence/bkt && make clean && make all && celery multi start worker1 -A analysystem --pool=prefork --pidfile=/var/run/%n.pid --logfile=/home/analy/analysystem/logs/celery/%n%I.log --loglevel=INFO --workdir=/home/analy/analysystem && cd /home/analy/analysystem && python manage.py runserver 0.0.0.0:8000 && flower -A analysystem --address=0.0.0.0 --port=5555 & jupyter notebook'
+    #command: bash -c 'cat /home/analy/hosts >> /etc/hosts && pip install git+git://github.com/17zuoye/pyirt.git@bdb5fd88bd7656310eba11a9f0303442b952baf0 && service rabbitmq-server start && rabbitmqctl stop_app && rabbitmqctl reset && rabbitmqctl start_app && cd /home/analy/analysystem/persistence/bkt && make clean && make all && celery multi start worker1 -A analysystem --pool=prefork --pidfile=/var/run/%n.pid --logfile=/home/analy/analysystem/logs/celery/%n%I.log --loglevel=INFO --workdir=/home/analy/analysystem && cd /home/analy/analysystem && gunicorn --config /home/analy/analysystem/analysystem/gunicorn_config.py --reload analysystem.wsgi && flower -A analysystem --address=0.0.0.0 --port=5555 & jupyter notebook'
+    environment:
+      TZ: "Asia/Seoul"
+      PYTHONPATH: '/home/analy/analysystem'
+      ANALYSYSTEM_APP_PATH: '/home/analy'
+      ANALYSYSTEM_LOG_PATH: '/home/analy/analysystem/logs'
+      DJANGO_SETTINGS_MODULE: 'analysystem.qa_settings'
+    mem_limit: 16384m
+    cpus: 0.0
